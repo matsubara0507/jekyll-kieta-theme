@@ -25,49 +25,49 @@ permalink: /
 - 各メッセージやファイルには *スレッド* と呼ばれるコメントを残すことができる
 - 各メッセージやファイルには *絵文字* でリアクションを追加できる
 
-![ブラウザからの画面]({{base.url}}/assets/images/tutorial-slack/browser.jpg)
+![ブラウザからの画面]({{site.baseurl}}/assets/images/tutorial-slack/browser.jpg)
 
 # 招待メールが届いたら
 
-![招待メール]({{base.url}}/assets/images/tutorial-slack/invitemail.jpg)
+![招待メール]({{site.baseurl}}/assets/images/tutorial-slack/invitemail.jpg)
 
 とあるチームから招待されたので、誰から招待されたかが分かるようだったら `Join Now` をクリックする。
 
-![]({{base.url}}/assets/images/tutorial-slack/initsetting1.jpg)
+![]({{site.baseurl}}/assets/images/tutorial-slack/initsetting1.jpg)
 
 名前(First name)と名字(Last name)と username を入力して `Next` をクリックする。
 (username はチャット中に表示されるハンドルネームのようなもので、名前と名字を含め、あとで変更可能である)
 
-![]({{base.url}}/assets/images/tutorial-slack/initsetting1.jpg)
+![]({{site.baseurl}}/assets/images/tutorial-slack/initsetting1.jpg)
 
 6文字以上のパスワードを設定し、`Next` をクリックする(下のバーが右に行くほど良いパスワード)。
 
-![]({{base.url}}/assets/images/tutorial-slack/initsetting1.jpg)
+![]({{site.baseurl}}/assets/images/tutorial-slack/initsetting1.jpg)
 
 プライベートポリシーを(よく)読んで、承諾できるなら `I Agree` をクリックする。
 
-![]({{base.url}}/assets/images/tutorial-slack/tutorial.jpg)
+![]({{site.baseurl}}/assets/images/tutorial-slack/tutorial.jpg)
 
 チュートリアルの画面が出てくる。
 要らなかったら、下の `Skip the tutorial` をクリック。
 `Explore Slack` を押すと
 
-![]({{base.url}}/assets/images/tutorial-slack/tutorial1.jpg)
+![]({{site.baseurl}}/assets/images/tutorial-slack/tutorial1.jpg)
 
 に遷移し、`slackbot` が何かを入力してと言ってるので、何かを入力。
 
-![]({{base.url}}/assets/images/tutorial-slack/tutorial2.jpg)
+![]({{site.baseurl}}/assets/images/tutorial-slack/tutorial2.jpg)
 
 すると左のサイドバーの説明をしてくれる。
 `Next tip` などをクリックしていくとチュートリアルは終了する。
 
 # 画面の構成
 
-![]({{base.url}}/assets/images/tutorial-slack/browser1.jpg)
+![]({{site.baseurl}}/assets/images/tutorial-slack/browser1.jpg)
 
 メッセージにカーソルを合わせると赤枠の様なのが出てくる。
 
-![]({{base.url}}/assets/images/tutorial-slack/message.jpg)
+![]({{site.baseurl}}/assets/images/tutorial-slack/message.jpg)
 
 左から
 
